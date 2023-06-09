@@ -4,7 +4,7 @@
 
 <div align="center" >
   <img src="./github/demo.png" alt="demo1" height="425">
-  <img src="./github/demo2.png" alt="demo2" height="425">
+  <img src="./github/demo-2.png" alt="demo2" height="425">
 </div>
 
 ---
